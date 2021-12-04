@@ -17,3 +17,7 @@ This is my addition to the README. - Lauren Farr, lkf57
 
 ## Project Picture
 ![Class Diagram of our system](Raspberry_Pi.JPG)
+
+## Embedded Language addition
+
+This is my addition to the README file - el845
