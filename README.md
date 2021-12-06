@@ -14,6 +14,8 @@ The car is able to avoid obstacles automatically. We will use the knowledge of A
 * [Eleanor Lemish](https://github.com/el845)
 
 This is my addition to the README. - Lauren Farr, lkf57
+## Project requirements
+This is the addition to the README file. (Pengfei Liu)
 
 ## Project Picture
 ![Class Diagram of our system](Raspberry_Pi.JPG)
