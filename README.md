@@ -11,15 +11,12 @@ The car is able to avoid obstacles automatically. We will use the knowledge of A
 ## Contributors
 * [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 * [Lauren Farr](https://github.com/lkf57)
-* [Eleanor Lemish](https://github.com/el845)
+* [Pengfei Liu](https://github.com/Pengfei-Y)
 
 This is my addition to the README. - Lauren Farr, lkf57
+
 ## Project requirements
 This is the addition to the README file. (Pengfei Liu)
 
 ## Project Picture
 ![Class Diagram of our system](Raspberry_Pi.JPG)
-
-## Embedded Language addition
-
-This is my addition to the README file - el845
